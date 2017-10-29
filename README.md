@@ -43,8 +43,7 @@
    - jQuery & RWD 
  
 - <a href="https://edenpan1207.github.io/bookstore_gmap/" target="_blank">Book Store Position</a>
-   - 透過政府資料開放平台結合 Google Map Api 將資料呈現在 Google Map 上，並以 Geolocation 搜尋 user 的 GPS 定位，快速尋找附近的服務
- - Javascript 		   
+   - 透過政府資料開放平台結合 Google Map Api 將資料呈現在 Google Map 上，並以 Geolocation 搜尋 user 的 GPS 定位，快速尋找附近的服務 		   
  <hr>
  
 ### 工作經驗
