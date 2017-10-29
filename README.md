@@ -28,13 +28,13 @@
   - 目前公司主要產品
   - 主要使用技術：HTML5 & CSS3 & SCSS & Bootstrap3 & Ajax & Javascript & Jquery & 第三方Api
   - 使用工具：Cloud9 & Bitbucket
-  - 發比例佔 70% 左右
+  - 發比例佔 70% 左右
  
 - <a href="https://myrace.tw/race/index" target="_blank">Myrace</a> 		   
   - 目前公司主要產品
   - 主要使用技術：HTML5 & CSS3 & SCSS & Bootstrap3 & Ajax & Javascript & Jquery & 第三方Api
   - 使用工具：Cloud9 & Bitbucket
-  - 開發比例佔 90% 左右
+  - 開發比例佔 90% 左右
  
  ### 作品集 - 練習
  - <a href="https://s.codepen.io/edenpan/debug/GMdgVa/wQMPoZQDnVRk" target="_blank">Simple todo list</a>
