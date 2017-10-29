@@ -36,14 +36,7 @@
  
  ### 作品集 - 練習
  - <a href="https://s.codepen.io/edenpan/debug/GMdgVa/wQMPoZQDnVRk" target="_blank">Simple todo list</a>
-   - 透過 Javascript & Jquery 實現 Todo-list 的基本功能，包含新增、刪除、運算事件
- 
-- <a href="https://edenpan1207.github.io/Pet-Adoption-Project/" target="_blank">Pet Adoption</a>
-   - 透過政府資料開放平台抓取 JSON 資料，透過 Ajax 呈現在網頁上    
-   - jQuery & RWD 
- 
-- <a href="https://edenpan1207.github.io/bookstore_gmap/" target="_blank">Book Store Position</a>
-   - 透過政府資料開放平台結合 Google Map Api 將資料呈現在 Google Map 上，並以 Geolocation 搜尋 user 的 GPS 定位，快速尋找附近的服務 		   
+   - 透過 Javascript & Jquery 實現 Todo-list 的基本功能，包含新增、刪除、運算事件		   
  <hr>
  
 ### 工作經驗
